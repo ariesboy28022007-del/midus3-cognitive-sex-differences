@@ -1,0 +1,17 @@
+check,passed
+2693 original cohort records,True
+2088 families,True
+Unique participant IDs,True
+All primary participants linked to survey,True
+8 missing education entries,True
+Exactly 2 Holm-adjusted primary tests,True
+Exactly 2 Holm-adjusted exploratory TOSTs,True
+C3TEM: analytic N,True
+C3TEM: main contrast verified,True
+C3TEM: residual variance ratio verified,True
+C3TEM: bootstrap valid,True
+C3TEF: analytic N,True
+C3TEF: main contrast verified,True
+C3TEF: residual variance ratio verified,True
+C3TEF: bootstrap valid,True
+Executive Functioning uses clean SGST,True
