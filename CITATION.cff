@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this analysis, cite the repository and the original ICPSR datasets identified in the README."
+title: "MIDUS 3: Sex Differences in Cognitive Test Performance — Reproducible Analysis"
+type: software
+authors:
+  - family-names: Toigonbekov
+    given-names: Nurmukhammet
+version: "0.1.0"
+keywords:
+  - MIDUS 3
+  - BTACT
+  - cognitive performance
+  - between-person variance
+  - reproducible research
