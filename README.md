@@ -33,6 +33,14 @@ No supplementary `.py` script is required. The analysis uses Python, NumPy, pand
 
 > **Data policy:** Original ICPSR microdata are **not included** in this repository. Access them from the distributors and follow their conditions. Do not commit dataset archives, extracted `.dta` files, or respondent-level exports. A `.gitignore` is provided to prevent accidental uploads.
 
+## Preview figures
+
+- [Primary mean contrasts and residual variance ratios](figures/primary_comparisons.svg)
+- [Exploratory equivalence (TOST)](figures/tost_90ci.svg)
+- [Exploratory quantile contrasts](figures/quantile_differences.svg)
+
+These vector plots were drawn from the published **aggregate** tables. The notebook generates additional ECDF and age-distribution PNG plots when run on the official datasets.
+
 ## Repository layout
 
 ```text
