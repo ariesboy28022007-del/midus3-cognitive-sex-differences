@@ -1,6 +1,8 @@
-numpy
-pandas
-scipy
-statsmodels
-matplotlib
-ipython
+# Libraries used by the self-contained Google Colab notebook.
+# Reference runtime: Python 3.13.5, pandas 2.2.3, SciPy 1.17.0, statsmodels 0.14.6.
+numpy>=2.0,<3
+pandas>=2.2,<3
+scipy>=1.12,<2
+statsmodels>=0.14,<0.15
+matplotlib>=3.8,<4
+ipython>=8
