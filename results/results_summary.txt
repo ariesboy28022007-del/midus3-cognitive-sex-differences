@@ -1,0 +1,20 @@
+MIDUS 3 — aggregate preliminary analysis summary
+Data sources: ICPSR 37095 v3 (cognitive); ICPSR 36346 v7 (survey).
+Original cohort: 2693 matched respondents; outcome-specific complete-case analyses.
+
+Episodic Memory (C3TEM): N=2687. Age-adjusted male-minus-female
+difference = -0.473 (nominal family-clustered 95% CI [-0.540, -0.406]).
+Unadjusted Hedges' g = -0.487.
+Male/female residual variance ratio = 0.667 (95% whole-family bootstrap CI [0.595, 0.750]).
+
+Executive Functioning (C3TEF): N=2408 (clean SGST).
+Age-adjusted male-minus-female difference = +0.142 (95% CI [0.091, 0.193]).
+Unadjusted Hedges' g = +0.200.
+Male/female residual variance ratio = 1.279 (95% CI [1.130, 1.444]).
+
+The two primary mean comparisons are significant following Holm correction.
+Exploratory TOST found EF equivalent within a prespecified ±0.20 BTACT unit
+range (Holm-adjusted p≈0.0254); this is not a clinical equivalence threshold.
+
+Results are not peer-reviewed, causal, IQ-based, or population-representative.
+See README and notebook for detailed analytic definitions and limitations.
