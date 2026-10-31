@@ -1,0 +1,23 @@
+# Source microdata must not be committed
+ICPSR_*
+*.dta
+*.sav
+*.por
+*.sas7bdat
+*.xpt
+*.zip
+*.7z
+*.rar
+**/raw/
+**/raw_data/
+**/original_data/
+MIDUS3_final_results/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
